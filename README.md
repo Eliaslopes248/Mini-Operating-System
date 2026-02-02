@@ -27,3 +27,9 @@ MY THOUGHTS:
 TASKS:
 ==========================
 This README.md file will also have my task lists so you can see exactly where I am in the process of this project!
+
+1. Make skeleton of asm program
+    - test.asm
+    - compile using gcc
+    - should stdout "Hello World"
+    - run a loop jmp $
