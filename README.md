@@ -1,4 +1,13 @@
 # Mini-Operating-System
+This project is a mini operating system made from scratch. Why am I doing this? Well.... because I'm just curious, to put it simply.
+The operating system will be made to run on x86 processors, and will
+have a boot loader made in NASM, a kernel made in C, along with other components.
+
+Since Im primarily programming via a MacBook, I will be using a 
+linux docker container
+
+This operating system will also be fully ran inside a QEMU
+emulator.
 
 ==========================
 PROJECT DESCRIPTION:
